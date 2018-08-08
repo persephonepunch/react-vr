@@ -1,0 +1,126 @@
+newmtl baked_lambert2SG_group3SG
+
+Ka 1 1 1 
+Kd 1 1 1
+Ks 1 1 1
+Ns 100
+d 0.6
+Tf 1 1 1 
+Ni 1.55
+illum 7 
+
+map_Kd occulsion.png
+
+
+
+
+newmtl baked_lambert4SG_polySurface99SG
+
+illum 4
+
+Kd 0.00 0.00 0.00
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+
+newmtl baked_lambert4SG_polySurface114SG
+
+Ka 1 1 1 
+Kd 1 1 1
+Ks 1 1 1
+Ns 100
+d 0.6
+Tf 1 1 1 
+Ni 1.55
+illum 7 
+
+map_Kd SecondFLR.png
+
+
+
+newmtl blinn2SG
+
+illum 4
+
+Kd 0.60 0.14 0.00
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+Ks 0.50 0.50 0.50
+
+
+newmtl initialShadingGroup
+
+illum 4
+
+Kd 0.50 0.50 0.50
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+
+newmtl lambert2SG
+illum 4
+
+Kd 0.17 0.17 0.17
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+
+newmtl pasted__blinn1SG2
+
+illum 4
+
+Kd 0.30 0.18 0.00
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+Ks 0.50 0.50 0.50
+
+
+newmtl pasted__blinn1SG3
+
+illum 4
+
+Kd 0.30 0.18 0.00
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+Ks 0.50 0.50 0.50
+
+
+newmtl pasted__pasted__pasted__blinn1SG4
+
+illum 4
+
+Kd 0.30 0.18 0.00
+
+Ka 0.00 0.00 0.00
+
+Tf 1.00 1.00 1.00
+
+Ni 1.00
+
+Ks 0.50 0.50 0.50
