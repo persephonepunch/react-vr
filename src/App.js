@@ -36,6 +36,8 @@ export default class App extends React.Component {
             wav: asset(this.state.sound)
           }}
         />
+
+   
         <VrButton onClick={this.changeScene.bind(this)}>
           <Text
             style={{
@@ -46,7 +48,7 @@ export default class App extends React.Component {
               paddingRight: 0.2,
               textAlign: 'center',
               textAlignVertical: 'center',
-              transform: [{translate: [0, 2, -6]}],
+              transform: [{translate: [0, 2.1, -6]}],
             }}>
             go outside
           </Text>
